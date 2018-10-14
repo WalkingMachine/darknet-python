@@ -49,3 +49,9 @@ qtcreator-*
 
 # Catkin custom files
 CATKIN_IGNORE
+
+# C build file
+*.a
+build
+obj
+libdarknet.so
